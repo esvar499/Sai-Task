@@ -1,50 +1,56 @@
+# HTML & CSS Learning Series (20-08-2024 to 25-08-2024)
 
-Update on Tasks to be Completed After Session:
-20-08-2024
-Day 1: Create a blog page using HTML.
-I have used tags in HTML, and we have learned the basics of HTML file structure.
-Inline and block elements.
-internal CSS tag with the <style></style> tag.
-<h1></h1> - <h6> </h6> header-style tag
-<br> Break Tag.
-<a href="Link of the page or website url" target="_blank" or "_self">
-"_blank": Open in a New Page
-"_self" is open on the same page.
-21-08-2024
-Day 2: Create a home page using HTML.
-<span></span>
-Learn about the span tag.
-Order List and Unorder List
-<ol></ol>,<ul></ul>, <li></li> list.
-how to emoji in a file with utp-8.0 and a shortcut key for it. Window +.
-22-08-2024
-Day 3: Create a form with the basic structure using HTML.
-Learn all the tags that are required to create a form structure with HTML.
-<label></label>
-<input type="text"> for text getting as input.
-<input type="email"> get and vailadte if it email.
-<input type="range">
-<input type="radio" name="gender">
-The Name="Gender" to identify we select other radio button in the option it should be change and for not doubt.
-23.04.2034
-Day 4: Implement video and audio tags in HTML pages.
-Video tag, and we have control to get it as function one.
-Audio tag, and we have to use control to get it a function one.
-Have Use an external CSS file to call the <h5> </h5> tag and others.
-24.08.2024
-Day 5: Build a website with an external CSS file and apply the necessary CSS tags and methods to elements.
-Inline elements in HTML:
-- `<a>`: Anchor
-- `<span>`: Generic inline container
-- `<img>`: Image
+## Overview
+This document details the learning tasks completed from 20-08-2024 to 25-08-2024. The focus was on understanding and applying HTML and CSS concepts to build basic web pages and implement various elements and structures.
 
-Block elements in HTML:
-- `<div>`: Generic block container
-- `<p>`: Paragraph
-- `<h1>` to `<h6>`: Headings
-- `<ul>`: unordered list
-- `<ol>`: ordered list
-- `<li>`: List item
-25.08.2024
-Day 6:
-Create a Google Meet person show screen with a Flex display with the help of CSS.
+---
+
+### Day 1: Create a Blog Page Using HTML
+- **Date:** 20-08-2024
+- **Tasks:**
+  - Created a blog page using HTML.
+  - Learned the basics of HTML file structure.
+  - Explored inline and block elements.
+  - Used internal CSS with the `<style>` tag.
+  - Implemented header tags `<h1>` to `<h6>`.
+  - Used the `<br>` tag for line breaks.
+  - Used anchor tags `<a>` with attributes:
+    - `target="_blank"`: Open in a new page.
+    - `target="_self"`: Open on the same page.
+
+### Day 2: Create a Home Page Using HTML
+- **Date:** 21-08-2024
+- **Tasks:**
+  - Created a home page using HTML.
+  - Learned about the `<span>` tag.
+  - Created ordered lists `<ol>`, unordered lists `<ul>`, and list items `<li>`.
+  - Learned how to insert emojis using UTF-8 encoding and Windows shortcut (`Win` + `.`).
+
+### Day 3: Create a Basic Form Structure Using HTML
+- **Date:** 22-08-2024
+- **Tasks:**
+  - Created a basic form structure using HTML.
+  - Learned about form elements:
+    - `<label>`: Label for input fields.
+    - `<input type="text">`: Input field for text.
+    - `<input type="email">`: Input field for email with validation.
+    - `<input type="range">`: Range slider.
+    - `<input type="radio" name="gender">`: Radio buttons for gender selection.
+
+### Day 4: Implement Video and Audio Tags in HTML
+- **Date:** 23-08-2024
+- **Tasks:**
+  - Implemented the `<video>` and `<audio>` tags with control attributes.
+  - Applied external CSS for styling `<h5>` tags and other elements.
+
+### Day 5: Build a Website Using an External CSS File
+- **Date:** 24-08-2024
+- **Tasks:**
+  - Built a website using external CSS.
+  - Applied CSS tags and methods to HTML elements.
+  - Reviewed inline elements such as `<a>`, `<span>`, `<img>`, and block elements like `<div>`, `<p>`, `<h1>` to `<h6>`, `<ul>`, `<ol>`, and `<li>`.
+
+### Day 6: Create a Google Meet Person Show Screen with Flex Display
+- **Date:** 25-08-2024
+- **Tasks:**
+  - Created a Google Meet person show screen using CSS Flexbox.
