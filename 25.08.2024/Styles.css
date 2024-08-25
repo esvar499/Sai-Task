@@ -1,4 +1,33 @@
 .parent {
-    width: 300px;
+    width: 500x;
+    height: 507px; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.child {
     height: 200px;
+    width: 400px;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+
+.child img {
+    padding-bottom: 10px;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+.child p {
+    padding-right:70px;
+    text-align: left;
+    width: 100px;
 }
