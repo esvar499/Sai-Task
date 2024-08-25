@@ -19,14 +19,14 @@
 
 .our-services {
     padding: 20px;
-    margin: -10px;
+    margin: 20px; /* Changed from -10px to 20px */
 }
 
 .our-services h2 {
     color: #333;
     font-size: 28px;
     line-height: normal;
-    margin-bottom: -10px;
+    margin-bottom: 10px; /* Added margin-bottom */
 }
 
 .our-services h3,
