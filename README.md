@@ -54,3 +54,6 @@ This document details the learning tasks completed from 20-08-2024 to 25-08-2024
 - **Date:** 25-08-2024
 - **Tasks:**
   - Created a Google Meet person show screen using CSS Flexbox.
+  - Used CSS Flexbox to create a responsive layout.
+  - Applied CSS Flexbox to create a responsive layout for the Google Meet person show screen.
+  Tag Use Child with element Tag for Example :- .child Img {}

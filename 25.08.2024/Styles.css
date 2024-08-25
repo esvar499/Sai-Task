@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 .parent {
     width: 500x;
     height: 507px; 
@@ -20,14 +21,18 @@
 }
 
 .child img {
-    padding-bottom: 10px;
+    padding: 20px;
     align-items: center;
     width: 100px;
     height: 100px;
+    
 }
 
 .child p {
     padding-right:70px;
     text-align: left;
     width: 100px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace ,'lemon-regular';
+    font-weight: bolder;
 }
