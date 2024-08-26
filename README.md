@@ -4,17 +4,17 @@
 This document details the learning tasks completed from 20-08-2024 to 25-08-2024. The focus was on understanding and applying HTML and CSS concepts to build basic web pages and implement various elements and structures.
 
 ---
-Day 1:
+- Day 1:
 https://day1-sai-esvar.netlify.app
-Day 2:
+- Day 2:
 https://day2-sai-esvar.netlify.app/
-Day 3:
+- Day 3:
 https://day3-sai-esvar.netlify.app/
-Day 4:
+- Day 4:
 https://day4-sai-esvar.netlify.app/
-Day 5:
+- Day 5:
 https://day5-sai-esvar.netlify.app
-Day 6:
+- Day 6:
 https://day6-sai-esvar.netlify.app
 ### Day 1: Create a Blog Page Using HTML
 - **Date:** 20-08-2024
