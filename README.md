@@ -16,6 +16,9 @@ https://day4-sai-esvar.netlify.app/
 https://day5-sai-esvar.netlify.app
 - Day 6:
 https://day6-sai-esvar.netlify.app
+- Day 7:
+https://day7-sai-esvar.netlify.app
+
 ### Day 1: Create a Blog Page Using HTML
 - **Date:** 20-08-2024
 - **Tasks:**
@@ -68,3 +71,9 @@ https://day6-sai-esvar.netlify.app
 - Implemented .child elements, such as .child img {}, to define specific styling within the Flexbox container.
 - Applied column-gap to create space between columns in the layout.
 - Used flex-basis to set the initial size of flex items, ensuring an optimal layout that adapts to the available space.
+### Task Details Create a home page with a logo and navigation links in the header.
+- **Date** 26-08-2024
+### Objectives:
+- Create a home page with a logo and navigation links in the header.
+- Align and structure the header and content using CSS Grid.
+- Enhance the responsiveness and design of the page with proper CSS styling.
