@@ -75,16 +75,19 @@ nav ul li a {
     margin-right: 20px;
 }
 
+.profile-img:hover {
+    border-radius: 50px; 
+    background-image: url(./Images/Image1.jpg);
+    background-size: cover; 
+}
 .contact-section {
     margin-top: 50px;
     text-align: center;
- 
-    
-}
-.contact-section th{
-    text-transform: uppercase;
 }
 
+.contact-section th {
+    text-transform: uppercase;
+}
 
 footer {
     background-color: #333;
