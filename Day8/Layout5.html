@@ -26,19 +26,31 @@
         }
   
         .wrapper {
-            width: 600px;
+            width: 600px; /* Adjusted to fit six columns */
             display: grid;
             grid-gap: 10px;
-            grid-template-columns: repeat(5, 100px);
-            grid-template-rows: repeat(3, 100px); 
+            grid-template-columns: repeat(5, 100px); /* Six columns */
+           
         }
 
         .d {
-            grid-column: 3 / span 2; /* Adjusted to fit the grid */
+            grid-column: 4 / span 3; /* Span across columns 4 to 6 */
             grid-row: 2; 
-            background-color: red; /* Example color */
-            width: 290px; /* Ensures it takes full width of its grid cell */
-            height:65px; /* Ensures it takes full height of its grid cell */
+            background-color: red;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 120%; /* Adjust font size if needed */
+        }
+
+        .f {
+            grid-column: 1 / span 6; /* Span across all columns */
+            grid-row: 3; /* Place on the third row */
+            background-color: red;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 120%; /* Adjust font size if needed */
         }
     </style>
 </head>
@@ -50,8 +62,9 @@
         <div class="box" style="background-color: green;">4</div>
         <div class="box" style="background-color: grey;">5</div>
         <div class="box" style="background-color: yellow;">6</div>
-        <div class="box" style="background-color: blue;">7</div>
-        <div class="box d">D</div> <!-- Included within the grid layout -->
+        <div class="box" style="background-color: blue;">7</div> <!-- Number 7 div -->
+        <div class="box d">D</div>
+        <div class="box f">F</div>
     </div>
 </body>
 </html>
