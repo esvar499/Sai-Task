@@ -71,6 +71,7 @@
 .item1 {
   grid-column: col / span 2;
   grid-row: row;
+  width: 435px;
 }
 
 .item3 {

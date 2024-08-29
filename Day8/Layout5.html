@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid 6</title>
+    <style>
+        body {
+            margin: 40px;
+        }
+  
+        .box {
+            background-color: #444;
+            color: #fff;
+            border-radius: 5px;
+            padding: 20px;
+            font-size: 150%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+  
+        .box:nth-child(even) {
+            background-color: #ccc;
+            color: #000;
+        }
+  
+        .wrapper {
+            width: 600px;
+            display: grid;
+            grid-gap: 10px;
+            grid-template-columns: repeat(5, 100px);
+            grid-template-rows: repeat(3, 100px); 
+        }
+
+        .d {
+            grid-column: 3 / span 2; /* Adjusted to fit the grid */
+            grid-row: 2; 
+            background-color: red; /* Example color */
+            width: 290px; /* Ensures it takes full width of its grid cell */
+            height:65px; /* Ensures it takes full height of its grid cell */
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="box box1" style="background-color: grey;">1</div>
+        <div class="box box2" style="background-color: yellow;">2</div>
+        <div class="box" style="background-color: blue;">3</div>
+        <div class="box" style="background-color: green;">4</div>
+        <div class="box" style="background-color: grey;">5</div>
+        <div class="box" style="background-color: yellow;">6</div>
+        <div class="box" style="background-color: blue;">7</div>
+        <div class="box d">D</div> <!-- Included within the grid layout -->
+    </div>
+</body>
+</html>
