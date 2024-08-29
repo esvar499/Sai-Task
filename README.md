@@ -77,3 +77,26 @@ https://day7-sai-esvar.netlify.app
 - Create a home page with a logo and navigation links in the header.
 - Align and structure the header and content using CSS Grid.
 - Enhance the responsiveness and design of the page with proper CSS styling.
+
+# Day 8: Grid Layout and Styling
+
+## Objective
+
+On Day 8, we focused on creating a responsive grid layout using CSS Grid and styling panels with various colors. The goal was to understand and implement CSS Grid to create a flexible and responsive layout.
+
+## Tasks Completed
+
+1. **Setup HTML Structure:**
+   - Created a basic HTML structure with a header, multiple panels, and a footer.
+
+2. **CSS Grid Layout:**
+   - Implemented a grid layout using CSS Grid.
+   - Configured `grid-template-columns` and `grid-auto-rows` to make the layout responsive.
+
+3. **Styling Panels:**
+   - Added default styling for panels including background color, padding, and font size.
+   - Applied different background colors to specific panels to distinguish them.
+
+4. **Responsive Design:**
+   - Used `repeat(auto-fill, minmax(200px, 1fr))` to ensure panels adjust based on screen size.
+   - Included a fallback for browsers without grid support using flexbox.
