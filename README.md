@@ -18,6 +18,8 @@ https://day5-sai-esvar.netlify.app
 https://day6-sai-esvar.netlify.app
 - Day 7:
 https://day7-sai-esvar.netlify.app
+- Day 8: 
+https://day8-sai-esvar.netlify.app
 
 ### Day 1: Create a Blog Page Using HTML
 - **Date:** 20-08-2024
